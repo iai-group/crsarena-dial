@@ -84,4 +84,4 @@ The script generates a JSON file with an additional key `vote_result` for dialog
 
 ## Contact
 
-Should you have any questions, please contact Nolwenn Bernard (<nolwenn.m.bernard@uis.no>) or Hideaki Joko (<hideaki.joko@ru.nl>).
+Should you have any questions, please contact Nolwenn Bernard (<nolwenn.bernard@th-koeln.de>) or Hideaki Joko (<hideaki.joko@ru.nl>).
